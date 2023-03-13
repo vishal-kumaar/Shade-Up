@@ -1,5 +1,5 @@
 # ⭐ Project - Shade Up ⭐
-🔗 [Project Link](https://rshade-up.netlify.app/ "Click me") <br>
+🔗 [Project Live Link](https://rshade-up.netlify.app/ "Click me") <br>
 
 This is javascript project given in the **Ineuron's Full Stack JavaScript Development Bootcamp**.
 
